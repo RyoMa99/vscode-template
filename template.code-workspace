@@ -59,6 +59,10 @@
       "titiaiev.vue-docs",
       // "hollowtree.vue-snippets", // Vue3
       "nicholashsiang.vscode-vue2-snippets", // Vue2
+      // c++
+      "ms-vscode.cpptools",
+      // java
+      "vscjava.vscode-java-pack",
     ],
   },
 }
