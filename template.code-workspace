@@ -32,6 +32,8 @@
       "hediet.vscode-drawio",
       "ms-vscode-remote.remote-containers",
       "MS-vsliveshare.vsliveshare",
+      // windows
+      "ms-vscode-remote.remote-wsl",
       // docker・k8s
       "ms-azuretools.vscode-docker",
       "ms-kubernetes-tools.vscode-kubernetes-tools",
