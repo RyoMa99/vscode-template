@@ -59,6 +59,8 @@
       "titiaiev.vue-docs",
       // "hollowtree.vue-snippets", // Vue3
       "nicholashsiang.vscode-vue2-snippets", // Vue2
+      // Nest JS
+      "ashinzekene.nestjs",
       // c++
       "ms-vscode.cpptools",
       // java
