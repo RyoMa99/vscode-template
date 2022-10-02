@@ -15,6 +15,7 @@
       "vscode-icons-team.vscode-icons", // ファイルの拡張子ごとのアイコン
       "editorconfig.editorconfig", // editorconfig
       "streetsidesoftware.code-spell-checker", // コード中のスペルチェック
+      "VisualStudioExptTeam.vscodeintellicode", // コーディングのサジェスト機能
       "mosapride.zenkaku", // 全角スペースを表示する
       "satokaz.vscode-bs-ctrlchar-remover", // 制御文字の削除。ppt等からコピペした際に使える
       "chrmarti.regex", // Ctrl + alt + m で正規表現のテストが出来る
