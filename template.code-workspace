@@ -28,6 +28,7 @@
       "wayou.vscode-todo-highlight", // コメントのTODOをハイライトする
       "Gruntfuggly.todo-tree", // TODOをサイドメニューにリストアップ
       "arjun.swagger-viewer", // swagger表示に使う
+      "42Crunch.vscode-openapi", // openapi定義書の作成に使う
       "graphql.vscode-graphql", // graphqlの編集に使う
       "jebbs.plantuml", // vscodeでplantumlを書くのに必要
       "hediet.vscode-drawio", // vscodeでdrawioを使えるようにする
